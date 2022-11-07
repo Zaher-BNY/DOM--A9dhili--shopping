@@ -1,0 +1,87 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    scroll-behavior: smooth;
+    background-image: url(./Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg);
+    
+ 
+  
+  
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    background-color: white;
+}
+.myproject{
+    display: flex;
+    justify-content: space-around;
+
+}
+h1{
+    color: white;
+}
+h1>span{
+    color:red
+}
+th{
+    color: white;
+    margin: 15px;
+    padding: 15px;
+
+    
+
+}
+
+
+td{
+    color: white;
+    
+}
+.button{
+    color: white;
+    
+}
+
+.btnplus{
+    color: white;
+    border-radius: 15px;
+    border-color: white;
+}
+
+.btnminus{
+    color: white;
+    border-radius: 15px;
+    border-color: white;
+}
+
+i{
+    color: red;
+    cursor: pointer;
+
+}
+img{
+    color:red;
+    width: 100px;
+    height:100px;
+    box-shadow: 4px 4px 5px red;
+}
+input{
+    color: white;
+    border-color: red;
+    border-radius: 15px;
+    cursor: pointer;
+}  
+
+button{
+    color:black;
+    border-radius: 15px;
+    font-size: medium;
+    cursor: pointer;
+    box-shadow: 8px 8px 20px black ;
+}
+button:hover{
+    color:red;
+}
+
